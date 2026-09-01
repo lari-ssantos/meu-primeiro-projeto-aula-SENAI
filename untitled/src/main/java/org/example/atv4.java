@@ -5,7 +5,7 @@ public class atv4 {
     static void main() {
         Scanner sc = new Scanner(System.in);
         double n1;
-        System.out.println("digite a nota do alno: ");
+        System.out.println("digite a nota do alno (de 0 a 10): ");
         n1 = sc.nextDouble();
 
         if (n1 >= 9) {
