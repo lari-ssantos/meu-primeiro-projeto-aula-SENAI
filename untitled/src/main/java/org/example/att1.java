@@ -9,9 +9,9 @@ public class att1 {
         idade = sc.nextInt();
 
         if (idade >= 18) {
-            System.out.println("tu é maior de idade");
+            System.out.println("Tu é maior de idade");
         } else {
-            System.out.println("tu é menor de idade");
+            System.out.println("Tu é menor de idade");
         }
     }
 }
