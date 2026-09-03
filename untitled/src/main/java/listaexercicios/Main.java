@@ -1,15 +1,13 @@
 package org.example;
-import java.io.PrintStream;
-import java.nio.charset.StandardCharsets;
-
 class Main {
     public static void main(String[] args) {
-        System.setOut(new PrintStream(System.out, true, StandardCharsets.UTF_8));
 
-        int valorInt = 56;
-        double valorDouble = valorInt;
+        double varDouble = 56.45;
+        int varInt = (int) varDouble;
 
-        System.out.println("O valor é " + valorDouble);
+        System.out.println("valor double" + VarDouble);
+        System.out.println("valor int" + VarInt);
     }
 }
+
 
