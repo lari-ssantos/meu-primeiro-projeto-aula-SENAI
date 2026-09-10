@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class atv6 {
-    static void main() {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double salario;
         System.out.println("digite o valor do seu salário ");
