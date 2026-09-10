@@ -7,6 +7,7 @@ public class atv9 {
 
         Scanner sc = new Scanner(System.in);
         String resposta;
+
         System.out.println("O funcionário está em qual cargo?");
         resposta = sc.nextLine();
 
