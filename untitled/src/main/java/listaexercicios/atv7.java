@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class atv7 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         int tempo;
         System.out.println("digite o seu tempo na empresa ");
