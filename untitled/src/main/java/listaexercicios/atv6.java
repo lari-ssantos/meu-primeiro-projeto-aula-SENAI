@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class atv6 {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         double salario;
         System.out.println("digite o valor do seu salário ");
