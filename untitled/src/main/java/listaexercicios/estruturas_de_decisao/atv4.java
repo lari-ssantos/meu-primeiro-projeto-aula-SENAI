@@ -1,4 +1,4 @@
-package org.example;
+package org.example.estruturas_de_decisao;
 import java.util.Scanner;
 
 public class atv4 {

@@ -1,3 +1,5 @@
+package org.example.vetores_e_matrizes_java;
+
 import java.util.Scanner;
 
 public class atividade1 {
