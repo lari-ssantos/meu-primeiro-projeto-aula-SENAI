@@ -22,7 +22,8 @@ void main() {
     try {
         FileWriter escritor = new FileWriter("teste.txt");
         escritor.write("é isso ae");
-        System.out.println("frase escrita");
+        escritor.close();
+        System.out.println("frase escrita com sucesso");
         escritor.close();
 
     } catch (IOException e) {
